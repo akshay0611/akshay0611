@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png) 
+![Header](github-header-image.png) 
 <h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
 <h3 align="center">A passionate Software Developer from India, diving into AI, Machine Learning, and Cybersecurity</h3>
 
