@@ -10,7 +10,7 @@
 
 - 💡 Feel free to ask me about: **Full-Stack Development (React, Node.js, MongoDB), AI, Machine Learning, and Cybersecurity**
 
-- 📬 Let's connect: **akshay@gmail.com**
+- 📬 Let's connect: **akshay.allen26200@gmail.com**
 
 - 🎉 Fun fact about me: **I can debug CSS faster than I can solve a Rubik's Cube!**
 
