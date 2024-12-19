@@ -23,11 +23,9 @@
 ## My Badges 🏅
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-11-11.png" width="100px" height="100px" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" width="100px" height="100px" />
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
