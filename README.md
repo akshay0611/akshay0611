@@ -11,7 +11,7 @@
 
 - 📬 Let's connect: **akshay.allen26200@gmail.com**
 
-- 🎉 Fun fact about me: **I can debug CSS faster than I can solve a Rubik's Cube!**
+- 🎉 Fun fact about me: I code in my sleep... or at least dream about it. 💤💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
