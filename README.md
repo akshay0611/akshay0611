@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar</h1>   
-<h3 align="center">A passionate Software Developer from India, diving into AI, Machine Learning, and Cybersecurity</h3>   
+<h3 align="center">A passionate Developer from India, diving into AI, Machine Learning, and Cybersecurity</h3>   
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay0611" alt="akshay0611" /></a> </p>
 
