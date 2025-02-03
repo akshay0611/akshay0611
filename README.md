@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar</h1>     
-<h3 align="center">A passionate Developer from India, diving into AI, Machine Learning, and Cybersecurity</h3>       
+<h3 align="center">A passionate Developer from India, diving into AI, Machine Learning, and Cybersecurity</h3>      
 
 ![](https://komarev.com/ghpvc/?username=akshay0611)           
 
