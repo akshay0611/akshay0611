@@ -11,7 +11,7 @@
 
 🌱 Currently Exploring: Advancing my skills in Artificial Intelligence, Machine Learning, and Cybersecurity to stay ahead in cutting-edge technology.  
 
-💡 Ask Me About: Full-Stack Development (React, Node.js, MongoDB), AI, Machine Learning, or Cybersecurity. Always happy to collaborate or brainstorm ideas!  
+💡 Ask Me About: Full-Stack Development (React, Node.js, MongoDB), AI, Machine Learning, or Cybersecurity. Always happy to collaborate or brainstorm ideas!   
 
 📬 Connect With Me: akshay.allen26200@gmail.com 
 
