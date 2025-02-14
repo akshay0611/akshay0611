@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 Currently Exploring: Advancing my skills in Artificial Intelligence, Machine Learning, and Cybersecurity to stay ahead in cutting-edge technology.  
+🌱 Currently Exploring: Advancing my skills in Artificial Intelligence, Machine Learning, and Cybersecurity to stay ahead in cutting-edge technology.   
 
-💡 Ask Me About: Full-Stack Development (React, Node.js, MongoDB), AI, Machine Learning, or Cybersecurity. Always happy to collaborate or brainstorm ideas!   
+💡 Ask Me About: Full-Stack Development (React, Node.js, MongoDB), AI, Machine Learning, or Cybersecurity. Always happy to collaborate or brainstorm ideas!    
 
 📬 Connect With Me: akshay.allen26200@gmail.com 
 
-🎉 Fun Fact: I sometimes dream in code, turning my sleep into a debugging session! 💤💻
+🎉 Fun Fact: I sometimes dream in code, turning my sleep into a debugging session! 💤💻 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
