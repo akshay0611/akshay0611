@@ -15,7 +15,7 @@
 
 📬 Connect With Me: akshay.allen26200@gmail.com   
 
-🎉 Fun Fact: I sometimes dream in code, turning my sleep into a debugging session! 💤💻  
+🎉 Fun Fact: I sometimes dream in code, turning my sleep into a debugging session! 💤💻   
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
