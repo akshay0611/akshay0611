@@ -17,14 +17,14 @@
 
 🎉 Fun Fact: I sometimes dream in code, turning my sleep into a debugging session! 💤💻  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/akshaykumar0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaykumar0611" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akshay0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshay0611" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshay0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay0611" height="30" width="40" /></a>
 </p>
 
-## My Badges 🏅
+## My Badges 🏅 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-11-11.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" width="100px" height="100px" />
