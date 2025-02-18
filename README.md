@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" height="30"/> I'm Akshay Kumar</h1>    
 <h3 align="center">A passionate Developer from India, diving into AI, Machine Learning, and Cybersecurity</h3>           
 
-![](https://komarev.com/ghpvc/?username=akshay0611)            
+![](https://komarev.com/ghpvc/?username=akshay0611)             
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay0611" alt="akshay0611" /></a> </p>         
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 Currently Exploring: Advancing my skills in Artificial Intelligence, Machine Learning, and Cybersecurity to stay ahead in cutting-edge technology.   
+🌱 Currently Exploring: Advancing my skills in Artificial Intelligence, Machine Learning, and Cybersecurity to stay ahead in cutting-edge technology.    
 
 💡 Ask Me About: Full-Stack Development (React, Node.js, MongoDB), AI, Machine Learning, or Cybersecurity. Always happy to collaborate or brainstorm ideas!    
 
