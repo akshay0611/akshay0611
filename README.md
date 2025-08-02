@@ -13,7 +13,7 @@
 
 💡 Ask Me About: Full-Stack Development (React, Node.js, MongoDB), AI, Machine Learning, or Cybersecurity. Always happy to collaborate or brainstorm ideas!    
 
-📬 Connect With Me: akshay.allen26200@gmail.com     
+📬 Connect With Me: akshay.allen26200@gmail.com      
 
 🎉 Fun Fact: I sometimes dream in code, turning my sleep into a debugging session! 💤💻   
 
