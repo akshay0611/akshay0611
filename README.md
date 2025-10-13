@@ -24,15 +24,23 @@
 <a href="https://www.leetcode.com/akshay0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay0611" height="30" width="40" /></a>
 </p>
 
-## My Badges 🏅 
+## 🏅 My Badges  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-11-11.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" width="100px" height="100px" />
-   <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Google%20Cloud-%20Fundamentals.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/c02b60a7c66da59bc1d3be51a983cdddfa37faf4/hacktoberfest.webp" width="100px" height="100px" />
-   <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/f42fe3b2a7ca6e7cc4446b7d6a7de1a5403df40e/gssocbadge.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/f42fe3b2a7ca6e7cc4446b7d6a7de1a5403df40e/gssocbadge.png" width="110" height="110" hspace="10" />
+  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/c02b60a7c66da59bc1d3be51a983cdddfa37faf4/hacktoberfest.webp" width="110" height="110" hspace="10" />
+  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-11-11.png" width="110" height="110" hspace="10" />
+  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" width="110" height="110" hspace="10" />
+  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Google%20Cloud-%20Fundamentals.png" width="110" height="110" hspace="10" />
 </p>
 
+<p align="center" style="font-size: 14px;">
+  <b>GSSoC 2025 - Innovator</b> &nbsp;|&nbsp;
+  <b>Hacktoberfest 2025 - Supercontributor</b> &nbsp;|&nbsp;
+  <b>Postman Student Expert</b> &nbsp;|&nbsp;
+  <b>GenAI 101 with Pieces</b> &nbsp;|&nbsp;
+  <b>Google Cloud Fundamentals</b>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
