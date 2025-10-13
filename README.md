@@ -30,6 +30,7 @@
   <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" width="100px" height="100px" />
    <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Google%20Cloud-%20Fundamentals.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/c02b60a7c66da59bc1d3be51a983cdddfa37faf4/hacktoberfest.webp" width="100px" height="100px" />
+   <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/f42fe3b2a7ca6e7cc4446b7d6a7de1a5403df40e/gssocbadge.png" width="100px" height="100px" />
 </p>
 
 
