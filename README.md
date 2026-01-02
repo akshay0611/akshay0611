@@ -1,17 +1,17 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" height="30"/> I'm Akshay Kumar</h1>               
-<h3 align="center">A passionate Developer from India, diving into AI, Machine Learning, and Cybersecurity</h3>                                 
+<h3 align="center">Full Stack Developer | Building scalable MERN, AI, and Cloud-driven solutions</h3>                                
                                               
 ![](https://komarev.com/ghpvc/?username=akshay0611)                 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay0611" alt="akshay0611" /></a> </p>          
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" style="margin-right: 100px;">  
+<img align="right" alt="Akshay Kumar - Full Stack Developer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" style="margin-right: 100px;">  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Akshay Kumar Twitter" /></a> </p> 
 
-🌱 Currently Exploring: Advancing my skills in Artificial Intelligence, Machine Learning, Cybersecurity, and Cloud Computing to stay ahead in cutting-edge technology.
+🌱 **Currently Exploring:** Advancing my expertise in **Full Stack** architectures, AI-integrated web products, and Cloud Computing.
 
-💡 Ask Me About: Full-Stack Development (React, Node.js, MongoDB), AI, Machine Learning, or Cybersecurity. Always happy to collaborate or brainstorm ideas!    
+💡 Ask Me About: Full-Stack Development (React, Node.js, MongoDB), AI or Cybersecurity. Always happy to collaborate or brainstorm ideas!    
 
 📬 Connect With Me: akshay.allen26200@gmail.com      
 
