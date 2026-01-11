@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" height="30"/> I'm Akshay Kumar</h1>                
+<h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" height="30"/> I'm Akshay Kumar</h1>                 
 <h3 align="center">Full Stack Developer | Building scalable MERN, AI, and Cloud-driven solutions</h3>                                 
                                               
 ![](https://komarev.com/ghpvc/?username=akshay0611)                 
