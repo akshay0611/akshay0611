@@ -26,36 +26,57 @@
 
 ## 🏅 My Badges  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/f42fe3b2a7ca6e7cc4446b7d6a7de1a5403df40e/gssocbadge.png" width="110" height="110" hspace="10" />
-  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/c02b60a7c66da59bc1d3be51a983cdddfa37faf4/hacktoberfest.webp" width="110" height="110" hspace="10" />
-  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-11-11.png" width="110" height="110" hspace="10" />
-  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" width="110" height="110" hspace="10" />
-  <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Google%20Cloud-%20Fundamentals.png" width="110" height="110" hspace="10" />
-</p>
+<div align="center">
 
-<p align="center" style="font-size: 14px;">
-  <b>GSSoC 2025 - Innovator</b> &nbsp;|&nbsp;
-  <b>Hacktoberfest 2025 - Supercontributor</b> &nbsp;|&nbsp;
-  <b>Postman Student Expert</b> &nbsp;|&nbsp;
-  <b>GenAI 101 with Pieces</b> &nbsp;|&nbsp;
-  <b>Google Cloud Fundamentals</b>
-</p>
+<table>
+<thead>
+<tr>
+<th>🥇</th>
+<th>🥈</th>
+<th>🥉</th>
+<th>⭐</th>
+<th>💎</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/f42fe3b2a7ca6e7cc4446b7d6a7de1a5403df40e/gssocbadge.png" width="100"/><br/><b>GSSoC 2025</b><br/><sub>Innovator</sub></td>
+<td><img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/c02b60a7c66da59bc1d3be51a983cdddfa37faf4/hacktoberfest.webp" width="100"/><br/><b>Hacktoberfest</b><br/><sub>Supercontributor</sub></td>
+<td><img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-11-11.png" width="100"/><br/><b>Postman</b><br/><sub>Student Expert</sub></td>
+<td><img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" width="100"/><br/><b>GenAI 101</b><br/><sub>Pieces Certified</sub></td>
+<td><img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Google%20Cloud-%20Fundamentals.png" width="100"/><br/><b>Google Cloud</b><br/><sub>Fundamentals</sub></td>
+</tr>
+</tbody>
+</table>
+
+</div>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-</p>
+## 💼 Tech Stack
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+
+### **Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay0611&show_icons=true&locale=en&layout=compact" alt="akshay0611" /></p>
 
