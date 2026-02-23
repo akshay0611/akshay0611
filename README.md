@@ -13,9 +13,10 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshay0611&theme=tokyonight&column=7&no-frame=true" alt="Akshay Kumar GitHub Trophies" />
-  </a>
+  <img 
+    src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=akshay0611&theme=flat&column=7&no-frame=true" 
+    alt="Akshay Kumar GitHub Trophies" 
+  />
 </p>
 
 ---
@@ -130,7 +131,10 @@ I'm a passionate **Full Stack Developer** crafting elegant, scalable solutions t
 
 ### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay0611&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=500" alt="Most Used Languages" />
+<img 
+  src="https://github-readme-stats-git-master-ryo-ma.vercel.app/api/top-langs/?username=akshay0611&layout=compact&theme=default&hide_border=true&card_width=500" 
+  alt="Most Used Languages" 
+/>
 
 ### GitHub Activity Overview
 
