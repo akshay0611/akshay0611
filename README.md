@@ -132,7 +132,7 @@ I'm a passionate **Full Stack Developer** crafting elegant, scalable solutions t
 ### Most Used Languages
 
 <img 
-  src="https://github-readme-stats-git-master-ryo-ma.vercel.app/api/top-langs/?username=akshay0611&layout=compact&theme=default&hide_border=true&card_width=500" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay0611&layout=compact&theme=default&hide_border=true&card_width=500&cache_seconds=1800&v=2" 
   alt="Most Used Languages" 
 />
 
