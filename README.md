@@ -2,7 +2,7 @@
 
 # Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" height="30"/> I'm **Akshay Kumar**
 
-### Full Stack Developer | Building Scalable MERN, AI, and Cloud-Driven Solutions
+### Full Stack Developer | Building Scalable MERN, AI, and Cloud-Driven Solutions 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshay0611&color=blueviolet&style=flat)
 
