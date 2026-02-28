@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" height="30"/> I'm **Akshay Kumar**
+# Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" height="30"/> I'm **Akshay Kumar** 
 
 ### Full Stack Developer | Building Scalable MERN, AI, and Cloud-Driven Solutions 
 
