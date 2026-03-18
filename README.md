@@ -125,26 +125,28 @@ I'm a passionate **Full Stack Developer** crafting elegant, scalable solutions t
 
 ---
 
-## 📊 GitHub Statistics
+<details>
+  <summary><b>📝 Curated Articles</b></summary><br>
 
-<div align="center">
+I write regular blog posts, most of which you will find on [EduLinkUp's website](https://www.edulinkup.dev)<br>
+Below are the few trending posts. 👇<br><br>
+  📘 [Run Claude Code for Free Using Ollama (No API Bill, No Compromise)](https://www.edulinkup.dev/blog/run-claude-code-free-ollama)<br>
+  📒 [Build Beautiful App UIs Without Being a Designer — Google Stitch + Antigravity](https://www.edulinkup.dev/blog/google-stitch-antigravity-ui-guide)<br>
+  ➡️ [more blog posts...](https://www.edulinkup.dev)
 
-### Most Used Languages
+</details>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay0611&layout=compact&theme=default&hide_border=true&card_width=500&cache_seconds=1800&v=2" 
-  alt="Most Used Languages" 
-/>
+---
 
-### GitHub Activity Overview
+<details>
+  <summary><b>⚙️ GitHub Analytics</b></summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshay0611&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&line_height=27" alt="GitHub Stats" />
+<a href="https://github.com/akshay0611">
+  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/akshay0611/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Akshay Kumar GitHub Profile Details" />
+  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/akshay0611/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Akshay Kumar GitHub Stats" />
+</a>
 
-### Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0611&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-</div>
+</details>
 
 ---
 
