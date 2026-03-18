@@ -142,8 +142,8 @@ Below are the few trending posts. 👇<br><br>
   <summary><b>⚙️ GitHub Analytics</b></summary>
 
 <a href="https://github.com/akshay0611">
-  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/akshay0611/akshay0611/profile-summary-cards-output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Akshay Kumar GitHub Profile Details" />
-  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/akshay0611/akshay0611/profile-summary-cards-output/profile-summary-card-output/github_dark/3-stats.svg" alt="Akshay Kumar GitHub Stats" />
+  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Akshay Kumar GitHub Profile Details" />
+  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Akshay Kumar GitHub Stats" />
 </a>
 
 </details>
