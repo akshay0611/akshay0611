@@ -85,16 +85,6 @@ Cloud & DevOps:
   <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=akshay0611&theme=flat&column=7&no-frame=true&margin-w=10" alt="Akshay Kumar GitHub Trophies" />
 </p>
 
-<details>
-  <summary><b>📝 Curated Articles</b></summary><br>
-
-I write regular blog posts, most of which you will find on [EduLinkUp's website](https://www.edulinkup.dev)<br>
-Below are the few trending posts. 👇<br><br>
-  📘 [Run Claude Code for Free Using Ollama (No API Bill, No Compromise)](https://www.edulinkup.dev/blog/run-claude-code-free-ollama)<br>
-  📒 [Build Beautiful App UIs Without Being a Designer — Google Stitch + Antigravity](https://www.edulinkup.dev/blog/google-stitch-antigravity-ui-guide)<br>
-  ➡️ [more blog posts...](https://www.edulinkup.dev)
-
-</details>
 
 <details>
   <summary><b>⚙️ GitHub Analytics</b></summary>
