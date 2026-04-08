@@ -3,14 +3,13 @@
 <p align="center">
   <a href="https://linkedin.com/in/akshaykumar0611">LinkedIn</a> -
   <a href="https://connectwithakshay.netlify.app/">Portfolio</a> -
-  <a href="https://www.edulinkup.dev">EduLinkUp</a> -
   <a href="mailto:akshay.allen26200@gmail.com">Contact me</a>
 </p>
 
 ---
 
 👨🏻‍💻 **About Me**<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" min-width="300px" max-width="300px" width="350px" align="right">
-✨ Full Stack Developer | Lead Dev [@edulinkup](https://github.com/edulinkup) <br>
+✨ Full Stack Developer | Lead Dev
 ⚡ Building Scalable MERN, AI, and Cloud-Driven Solutions<br>
 📫 How to reach me: [Email](mailto:akshay.allen26200@gmail.com) or check [Portfolio](https://connectwithakshay.netlify.app/)<br>
 🌱 Currently exploring: AI/ML Integration, LLMs & Cloud-Native dev<br>
