@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/akshaykumar0611">LinkedIn</a> -
   <a href="https://connectwithakshay.netlify.app/">Portfolio</a> -
-  <a href="mailto:akshay.allen26200@gmail.com">Contact me</a>
+  <a href="mailto:akshay.allen26200@gmail.com">Contact me</a> 
 </p>
 
 ---
