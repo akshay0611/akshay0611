@@ -81,10 +81,7 @@ Cloud & DevOps:
 </div>
 
 ## GitHub Achievements 🏆
-<p align="center">
-  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=akshay0611&theme=flat&column=7&no-frame=true&margin-w=10" alt="Akshay Kumar GitHub Trophies" />
-</p>
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akshay0611&theme=onestar&no-frame=true&row=1&column=6" /> </p>
 
 <details>
   <summary><b>⚙️ GitHub Analytics</b></summary>
