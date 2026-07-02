@@ -99,7 +99,7 @@ Cloud & DevOps:
 
 ## GitHub Achievements 🏆
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshay0611&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=akshay0611&theme=github_dark&no-frame=true&row=1&column=6" />
 </p>
 
 <details>
