@@ -37,38 +37,21 @@ Cloud & DevOps:
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
 
-## Certification Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+## 🏅 Professional Credentials & Achievements
+
+<div align="center">
+
 <table>
 <tr>
+
 <td align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/f42fe3b2a7ca6e7cc4446b7d6a7de1a5403df40e/gssocbadge.png" width="100px" height="100px" />
+<a href="https://credsverse.com/credentials/0dc75707-6109-4859-909c-654045f223f3">
+<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/main/CAST%20AI%20APA%20Hero.png" width="100px" height="100px" />
 </a><br/>
-<b>GSSoC 2025</b><br/>
-<sub>Innovator</sub>
+<b>CAST AI APA Hero</b><br/>
+<sub>Cloud Native & Application Performance Automation</sub>
 </td>
-<td align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/c02b60a7c66da59bc1d3be51a983cdddfa37faf4/hacktoberfest.webp" width="100px" height="100px" />
-</a><br/>
-<b>Hacktoberfest</b><br/>
-<sub>Supercontributor</sub>
-</td>
-<td align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-11-11.png" width="100px" height="100px" />
-</a><br/>
-<b>Postman</b><br/>
-<sub>API Fundamentals Student Expert</sub>
-</td>
-<td align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" width="100px" height="100px" />
-</a><br/>
-<b>GenAI 101</b><br/>
-<sub>Pieces Certified</sub>
-</td>
+
 <td align="center">
 <a href="#">
 <img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Google%20Cloud-%20Fundamentals.png" width="100px" height="100px" />
@@ -76,8 +59,42 @@ Cloud & DevOps:
 <b>Google Cloud</b><br/>
 <sub>Core Infrastructure Fundamentals</sub>
 </td>
+
+<td align="center">
+<a href="#">
+<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/f42fe3b2a7ca6e7cc4446b7d6a7de1a5403df40e/gssocbadge.png" width="100px" height="100px" />
+</a><br/>
+<b>GSSoC 2025</b><br/>
+<sub>Innovator</sub>
+</td>
+
+<td align="center">
+<a href="#">
+<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/c02b60a7c66da59bc1d3be51a983cdddfa37faf4/hacktoberfest.webp" width="100px" height="100px" />
+</a><br/>
+<b>Hacktoberfest</b><br/>
+<sub>Supercontributor</sub>
+</td>
+
+<td align="center">
+<a href="#">
+<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-11-11.png" width="100px" height="100px" />
+</a><br/>
+<b>Postman</b><br/>
+<sub>API Fundamentals Student Expert</sub>
+</td>
+
+<td align="center">
+<a href="#">
+<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/refs/heads/main/Pieces%20for%20Developers%20-%20GenAI%20101%20with%20Pieces.png" width="100px" height="100px" />
+</a><br/>
+<b>GenAI 101</b><br/>
+<sub>Pieces Certified</sub>
+</td>
+
 </tr>
 </table>
+
 </div>
 
 ## GitHub Achievements 🏆
