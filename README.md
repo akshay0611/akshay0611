@@ -46,7 +46,7 @@ Cloud & DevOps:
 
 <td align="center">
 <a href="https://credsverse.com/credentials/0dc75707-6109-4859-909c-654045f223f3">
-<img src="https://raw.githubusercontent.com/akshay0611/My-Certificates-Badges/main/CAST%20AI%20APA%20Hero.png" width="100px" height="100px" />
+<img src="https://github.com/akshay0611/My-Certificates-Badges/blob/main/CAST%20AI%20APA%20Hero.png?raw=true" width="100px" height="100px" />
 </a><br/>
 <b>CAST AI APA Hero</b><br/>
 <sub>Cloud Native & Application Performance Automation</sub>
