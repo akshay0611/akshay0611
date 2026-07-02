@@ -98,15 +98,17 @@ Cloud & DevOps:
 </div>
 
 ## GitHub Achievements 🏆
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akshay0611&theme=onestar&no-frame=true&row=1&column=6" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshay0611&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 <details>
-  <summary><b>⚙️ GitHub Analytics</b></summary>
+<summary><b>⚙️ GitHub Analytics</b></summary>
 
-<a href="https://github.com/akshay0611">
-  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Akshay Kumar GitHub Profile Details" />
-  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Akshay Kumar GitHub Stats" />
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="58%" />
+  <img src="https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/github_dark/3-stats.svg" width="38%" />
+</p>
 
 </details>
 
