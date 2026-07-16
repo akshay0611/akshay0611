@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/rose_pine/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
@@ -29,16 +39,6 @@
 
 ```
 ![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/rose_pine/4-productive-time.svg)
 ```
 
     
