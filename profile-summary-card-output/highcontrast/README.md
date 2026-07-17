@@ -15,20 +15,30 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/highcontrast/0-profile-details.svg)
+![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/highcontrast/1-repos-per-language.svg)
 ```
 
     
 
 ---
 
-![](./1-repos-per-language.svg)
+![](./2-most-commit-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/highcontrast/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/highcontrast/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/highcontrast/4-productive-time.svg)
 ```
 
     
