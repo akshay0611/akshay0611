@@ -15,20 +15,20 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./0-profile-details.svg)
 
 ```
-![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/radical/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/radical/0-profile-details.svg)
 ```
 
     
 
 ---
 
-![](./2-most-commit-language.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/radical/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/radical/1-repos-per-language.svg)
 ```
 
     
