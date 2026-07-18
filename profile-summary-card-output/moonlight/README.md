@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/moonlight/2-most-commit-language.svg)
-```
-
-    
