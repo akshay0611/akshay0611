@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/akshay0611/akshay0611/main/profile-summary-card-output/dracula/4-productive-time.svg)
+```
+
+    
